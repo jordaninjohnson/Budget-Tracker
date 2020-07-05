@@ -33,7 +33,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 <h1>Usage</h1>
 
-![img]()
+![img](/assets/img/img.png)
 <h1>Contributing</h1>
 
 <p><strong>Instructions</strong></p>
