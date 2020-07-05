@@ -24,7 +24,6 @@ The user will be able to add expenses and deposits to their budget with or witho
   <li> Open a terminal and start MongoDB</li>
   <li> Open another terminal and navigate into the root directory of the project folder.</li>
   <li> Use this command to download packages:<code>npm i</code></li>
-  <li> Insert seed files with the command:<code>node seeders/seed.js</code></li>
 </ul>
 
 <h2>Run it!</h2>
