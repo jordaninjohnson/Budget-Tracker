@@ -1,6 +1,7 @@
 # Budget-Tracker
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
+Check it out! https://jinj95.github.io/Budget-Tracker/
 <h1>Table of Contents</h1>
 
 <ul>
@@ -33,7 +34,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 <h1>Usage</h1>
 
-![img]()
+![img](/assets/img/img.png)
 <h1>Contributing</h1>
 
 <p><strong>Instructions</strong></p>
