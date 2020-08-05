@@ -15,8 +15,8 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-const databaseUrl = "workout";
-const collections = ["exercise"];
+const databaseUrl = "budget";
+const collections = ["transactions"];
 
 const db = mongojs(databaseUrl, collections);
 db.on("error", error => {
